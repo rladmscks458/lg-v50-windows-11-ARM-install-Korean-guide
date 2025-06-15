@@ -11,7 +11,7 @@
 이 가이드는 LG V50용입니다. 다른 스마트폰에 이 가이드로 윈도우를 설치할 경우 벽돌이 되는 원인이 됩니다.
 
 ## 설치 시작하기
-- [드라이버 지원 상태](guide/status.md)
+- [드라이버 지원 상태](status.md)
 
 - [윈도우 설치 가이드](guide/installation-selection.md)
 
